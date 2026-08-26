@@ -59,6 +59,7 @@
 | 🚀 **[FutureMe AI](https://github.com/Pongkarm/Future_Me)** | AI career & education recommendation platform for **JUMP Thailand Hackathon by AIS 2026** | `TypeScript` `Next.js` `Data Architecture` `AIS Open API` |
 | 📡 **[LoRaFarm Control](https://github.com/Kong19565/LoRaFarm_Control)** | Long-range IoT farm telemetry network — **Top 10 Finalist @ STI 2026** (incl. [Web Demo](https://github.com/Kong19565/LoRaFarm_Control_Fin)) | `TypeScript` `ESP32` `LoRa` `IoT` |
 | 🧠 **[SmartStudy_AI](https://github.com/Kong19565/SmartStudy_AI)** | Multi-modal learning & automated exam generation platform with resilient LLM pipelines | `Python` `Gemini AI` `Streamlit` `Tenacity` |
+| 🔐 **[Project_Locker_IoT](https://github.com/Kong19565/Project_Locker_IoT)** | Automated Smart Locker infrastructure with RFID, Keypad & Firebase Realtime Web (**Vocational Capstone 2024**) | `C++` `ESP/Arduino` `Firebase` `JavaScript` |
 | ⚡ **[async-2026](https://github.com/Kong19565/async-2026)** | High-concurrency asynchronous Python workflows with Asyncio & FastAPI | `Python` `Asyncio` `FastAPI` `WebSockets` |
 | 🔍 **[Python_Bytecode](https://github.com/Kong19565/Python_Bytecode)** | Deep-dive compiler opcodes and Python Virtual Machine internals | `Python` `TypeScript` `Bytecode` |
 
