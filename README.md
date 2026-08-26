@@ -48,6 +48,7 @@
 
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
+| 🚀 **[FutureMe AI](https://github.com/Pongkarm/Future_Me)** | AI-driven educational pathway & career matching platform for **JUMP Thailand Hackathon by AIS** | `TypeScript` `Next.js` `Data Architecture` `AIS Open API` |
 | 🧠 **[SmartStudy_AI](https://github.com/Kong19565/SmartStudy_AI)** | Multi-modal learning & automated exam generation platform with resilient LLM pipelines | `Python` `Gemini AI` `Streamlit` `Tenacity` |
 | 📡 **[LoRaFarm_Control](https://github.com/Kong19565/LoRaFarm_Control)** | Long-range IoT farm monitoring, telemetry data network & web dashboard | `TypeScript` `ESP32` `LoRa` `IoT` |
 | ⚡ **[async-2026](https://github.com/Kong19565/async-2026)** | High-concurrency asynchronous Python workflows with Asyncio & FastAPI | `Python` `Asyncio` `FastAPI` `WebSockets` |
