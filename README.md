@@ -20,8 +20,8 @@
 ### 🚀 About Me
 
 - 🤖 **AI & LLM Integrations:** Experienced in building multi-modal LLM applications with prompt engineering, resilient retry pipelines (`tenacity`), and strict JSON schema parsing.
-- ⚡ **Full-Stack & Systems:** Specialized in **Python** (Asyncio, FastAPI), **TypeScript / Next.js (App Router)**, and **Modern C++**.
-- 📡 **Hardware & Edge AI:** Hands-on experience with ESP32-S3, FreeRTOS, LoRa long-range telemetry, and Edge AI Computer Vision (MaixCAM).
+- ⚡ **Full-Stack & Systems:** Specialized in **Python** (Asyncio, FastAPI, FSM, OpenCV), **TypeScript / Next.js (App Router)**, and **Modern C++**.
+- 📡 **Hardware & Automation:** Hands-on experience with ESP32-S3, FreeRTOS, LoRa long-range telemetry, and POS hardware integrations.
 - 🛡️ **Engineering Philosophy:** Security-first, clean modular architecture, and proactive async collaboration.
 
 ---
