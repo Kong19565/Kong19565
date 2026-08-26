@@ -4,8 +4,16 @@
   <img src="https://komarev.com/ghpvc/?username=Kong19565&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
-> 🎓 **Computer Engineering Student** @ Chitralada Technology Institute (CDTI)  
+> 🎓 **3rd-Year Computer Engineering Student** @ Chitralada Technology Institute (CDTI)  
 > 📍 Bangkok, Thailand | 🌐 Available for Remote Global Opportunities (UTC+7 / CET Compatible)
+
+---
+
+### 🏆 Competitions & Hackathons
+
+- 🥉 **Top 10 Finalist (Central Region):** Science, Technology, and Innovation (STI) Competition 2026 — *LoRaFarm Control*
+- 🚀 **National Competitor & Finalist:** JUMP Thailand Hackathon by AIS 2026 — *FutureMe AI*
+- ⚡ **National Competitor:** TESA Top Gun Rally 2025 — *Embedded Systems & IoT Championship*
 
 ---
 
@@ -48,9 +56,9 @@
 
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
-| 🚀 **[FutureMe AI](https://github.com/Pongkarm/Future_Me)** | AI-driven educational pathway & career matching platform for **JUMP Thailand Hackathon by AIS** | `TypeScript` `Next.js` `Data Architecture` `AIS Open API` |
+| 🚀 **[FutureMe AI](https://github.com/Pongkarm/Future_Me)** | AI career & education recommendation platform for **JUMP Thailand Hackathon by AIS 2026** | `TypeScript` `Next.js` `Data Architecture` `AIS Open API` |
+| 📡 **[LoRaFarm Control](https://github.com/Kong19565/LoRaFarm_Control)** | Long-range IoT farm telemetry network — **Top 10 Finalist @ STI 2026** (incl. [Web Demo](https://github.com/Kong19565/LoRaFarm_Control_Fin)) | `TypeScript` `ESP32` `LoRa` `IoT` |
 | 🧠 **[SmartStudy_AI](https://github.com/Kong19565/SmartStudy_AI)** | Multi-modal learning & automated exam generation platform with resilient LLM pipelines | `Python` `Gemini AI` `Streamlit` `Tenacity` |
-| 📡 **[LoRaFarm_Control](https://github.com/Kong19565/LoRaFarm_Control)** | Long-range IoT farm monitoring, telemetry data network & web dashboard | `TypeScript` `ESP32` `LoRa` `IoT` |
 | ⚡ **[async-2026](https://github.com/Kong19565/async-2026)** | High-concurrency asynchronous Python workflows with Asyncio & FastAPI | `Python` `Asyncio` `FastAPI` `WebSockets` |
 | 🔍 **[Python_Bytecode](https://github.com/Kong19565/Python_Bytecode)** | Deep-dive compiler opcodes and Python Virtual Machine internals | `Python` `TypeScript` `Bytecode` |
 
