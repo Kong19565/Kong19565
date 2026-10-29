@@ -1,5 +1,5 @@
 # Generates the images shown in README.md (growing contribution snake, stats and
-# top-languages cards) and pushes them to the `output` branch.
+# top-languages cards) and pushes them to the output branch.
 name: Generate profile images
 
 on:
@@ -26,6 +26,9 @@ jobs:
           output: dist/snake.svg
           theme: blue
           frame: "true"
+
+      - name: Ensure snake animation runs even when OS prefers-reduced-motion is enabled
+        run: sed -i '/prefers-reduced-motion/d' dist/snake.svg
 
       - name: Render stats and language cards
         run: python3 scripts/profile_stats.py "${{ github.repository_owner }}" dist
