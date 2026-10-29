@@ -70,7 +70,7 @@
 </p>
 
 <p align="center">
-  <img alt="A snake that grows as it eats my contribution graph" src="https://raw.githubusercontent.com/Kong19565/Kong19565/output/snake.svg" width="100%" />
+  <img alt="A snake that grows as it eats my contribution graph" src="https://raw.githubusercontent.com/Kong19565/Kong19565/output/snake.svg?v=2" width="100%" />
 </p>
 
 <!-- Animated footer -->
