@@ -1,6 +1,6 @@
 <!-- Animated header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:36BCF7&height=200&section=header&text=Apisak%20Kongphakdee%20(Kong)&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Computer%20Engineering%20%40%20CDTI%20%7C%20AI%2C%20Systems%20%26%20Full-Stack&descAlignY=58&descSize=17" alt="Apisak Kongphakdee (Kong), Computer Engineering at CDTI" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:36BCF7&height=200&section=header&text=Apisak%20Kongphakdee%20(Kong)&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Computer%20Engineering%20%40%20CDTI%20%C2%B7%20AI%2C%20Systems%20and%20Full-Stack&descAlignY=58&descSize=17" alt="Apisak Kongphakdee (Kong), Computer Engineering at CDTI" width="100%" />
 </p>
 
 <p align="center">
