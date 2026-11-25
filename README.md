@@ -16,7 +16,7 @@
 3rd-year **Computer Engineering** student at **Chitralada Technology Institute (CDTI)**, Bangkok. I work across AI backends, embedded sensing, and IoT firmware — and I only list the parts I built myself.
 
 - 🥈 **TGR2026 — 1st Runner-up, national level:** My team placed 2nd of 56 teams (86.46/100) at TESA Top Gun Rally #20. My part was Track 1: an ESP32 sensor node that measures coffee-bean moisture from under 10 discrete parts (calibration **R² = 0.996**) and publishes JSON over MQTT.
-- 🧠 **AI inference server:** Built Node 4 of *LUMA*, a 4-node distributed image-generation platform — a FastAPI server running Stable Diffusion on an RTX 3070 8GB with a FIFO queue, GPU-memory guard, async webhooks, and **17/17** passing Pytest tests.
+- 🧠 **AI inference server:** Built Node 4 of *LUMA*, a 4-node distributed image-generation platform — a FastAPI server running Stable Diffusion on an RTX 3070 Laptop GPU (8GB) with a FIFO queue, GPU-memory guard, async webhooks, and **17/17** passing Pytest tests.
 - 📡 **Embedded & IoT:** Co-wrote the ESP32-S3 touchscreen firmware for *LoRaFarm Control* (**Honorable Mention, STI Inventions Contest 2026**).
 - 🔬 **Research:** Research & Information Analysis for *FutureMe AI* — psychometric groundwork (Holland RIASEC, Bandura self-efficacy) and a multi-layer scoring framework.
 
